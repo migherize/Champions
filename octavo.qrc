@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="octavo">
+    <file>octavos.jpg</file>
+  </qresource>
+</RCC>

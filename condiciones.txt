@@ -1,0 +1,17 @@
+Champions Lichess #QuedateEnCasa @migherize @AsoTrujillanaAjedrez
+
+Champions lichess #QuedateEnCasa es un torneo de ajedrez online por la plataforma de lichess con un tiempo de juego de 3min + 2seg , el cual consiste en un torneo donde se enfrentan 32 jugadores en 8 grupos de 4 jugadores cada uno.
+
+Las metodologias del torneo son las siguientes:
+
+*En cada grupo de 4 jugadores se enfrentaran a un match a 2 partidas entrejugadores, es decir que en la primera fase los jugadores tendran un total de 6 partidas jugadas.
+
+*De cada grupo pasaran los 2 mejores jugadores de cada grupo que tengan mas puntos acumulados, en caso de empate se resuelve a partidas armagedon.
+
+*La segunda fase (8vos de finales) consiste en un torneo O.K., el cual los 16 jugadores que avanzaron de fase de grupo se enfrentaran en match de 2 partidas y el ganador avanzara en pares-random, es decir al ir avanzando las ramas seran aleatorias mientras va avanzando el evento.
+
+*Los mejores 8 avanzan a cuartos de finales donde seguira la misma metodologia.
+*Los mejores 4 avanzan a semifinales donde seguira la misma metodologia.
+*Los mejores 2 se enfrentaran a 1 partida en la final, donde el jugadores que lleve mas puntos acumulados llevara Blancas, en caso de empate de puntos se sortea el color. 
+
+*puntajes: Victoria: 3pts, Empate: 1 pts, Derrota: 0pts.

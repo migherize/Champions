@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="sorteo">
+    <file>sorteo.jpeg</file>
+  </qresource>
+</RCC>

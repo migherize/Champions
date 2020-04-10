@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="grupos">
+    <file>grupos.jpg</file>
+  </qresource>
+</RCC>

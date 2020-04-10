@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cuartos">
+    <file>cuartos.jpg</file>
+  </qresource>
+</RCC>

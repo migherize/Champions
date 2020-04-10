@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="lichess">
+    <file>lichess.jpeg</file>
+  </qresource>
+</RCC>

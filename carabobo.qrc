@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="car">
+    <file>carabobo.png</file>
+  </qresource>
+</RCC>

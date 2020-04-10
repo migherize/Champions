@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="champions">
+    <file>champions.jpeg</file>
+  </qresource>
+</RCC>

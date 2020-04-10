@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="vzla">
+    <file>vzla.jpeg</file>
+  </qresource>
+</RCC>

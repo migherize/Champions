@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="apure">
+    <file>apure.png</file>
+  </qresource>
+</RCC>

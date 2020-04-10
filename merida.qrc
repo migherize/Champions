@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="mer">
+    <file>mer.png</file>
+  </qresource>
+</RCC>
